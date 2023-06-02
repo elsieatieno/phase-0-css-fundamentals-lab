@@ -17,9 +17,11 @@ nav a{
 figcaption{
   font-size: smaller;
 }
-#featured-property ~ p{
+#featured-property  p{
 width: 800px;
 text-align: center;
+font-size: smaller;
+padding-left: 250px;
 
 }
 
